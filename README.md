@@ -27,7 +27,7 @@ A Spring Boot web application for managing student records with a beautiful Boot
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/kajalsatija1997/spring-boot-student-mvc.git>
    cd student-manager
    ```
 
